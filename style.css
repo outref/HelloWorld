@@ -1,0 +1,25 @@
+html,body { 
+  background: url(background.jpg) no-repeat center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100%;
+}
+
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 5rem;
+	font-weight: bold;
+}
+
+.button {
+	padding: 1rem 2rem;
+	border-radius: 1.5rem;
+}
+
+
+.buffer{
+	height: 5rem;
+}
+
